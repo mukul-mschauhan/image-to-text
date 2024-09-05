@@ -1,6 +1,6 @@
 # Image-to-Text
 
-This repository will take image and prompt and generate information. [click here][https://image2txt.streamlit.app/] to view the project.
+This repository will take image and prompt and generate information. (click here)[https://image2txt.streamlit.app] to view the project.
 
 # Create the enviroment using Python 3.10
 
