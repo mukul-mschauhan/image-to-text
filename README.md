@@ -1,5 +1,7 @@
 # Unleash your Imagination: Craft compelling narratives from your Images using the magic of Gemini 1.5 Flash.
 
+https://github.com/user-attachments/assets/f15ac7e0-f960-4b3b-9b82-6467ef7cc008
+
 ### Project Explanation:
 
 This project harnesses the power of **Gemini 1.5 Flash**, Google's advanced large language model, to **analyze images and generate insightful information based on user prompts**. It works by:
@@ -17,8 +19,6 @@ This project harnesses the power of **Gemini 1.5 Flash**, Google's advanced larg
 - **Accessibility:** Help visually impaired users understand the content of images.
 
 [click here](https://image2txt.streamlit.app) to view the Application.
-
-https://github.com/user-attachments/assets/c1186827-dfd0-4b17-83f7-5d74d62c11f0
 
 ## How it Works
 **1. Environment Setup:**
