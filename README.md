@@ -18,6 +18,8 @@ This project harnesses the power of **Gemini 1.5 Flash**, Google's advanced larg
 
 [click here](https://image2txt.streamlit.app) to view the Application.
 
+https://github.com/user-attachments/assets/c1186827-dfd0-4b17-83f7-5d74d62c11f0
+
 ## How it Works
 **1. Environment Setup:**
 
