@@ -20,6 +20,9 @@ def get_gemini_response(input,image):
 
 ##initialize our streamlit app
 
+headers = {"authorization":st.secrets["auth-tokens"],
+          "content-type":"application/json"}
+
 st.set_page_config(page_title="Gemini")
 
 st.header("Gemini Image to Text Application 🖼️ 🖥️ 📄")
