@@ -23,11 +23,11 @@ def get_gemini_response(input,image):
 headers = {"authorization": st.secrets["GOOGLE_API_KEY"],
           "content-type": "application/json"}
 
-st.set_page_config(page_title="Gemini")
+st.set_page_config(page_title="✅ Gemini")
 
-st.header("Gemini Image to Text Application 🖼️ 🖥️ 📄")
-input=st.text_input("Input Prompt: ",key="input")
-uploaded_file = st.file_uploader("Upload an image...", 
+st.header("🎯Gemini Image to Text Application 🖼️ 📝 📄 🔰")
+input=st.text_input("📒 Input Prompt: ",key="input")
+uploaded_file = st.file_uploader("📋 Upload an image...", 
                                  type=["jpg", "jpeg", "png"])
 image=""   
 if uploaded_file is not None:
