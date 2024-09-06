@@ -35,8 +35,7 @@ if uploaded_file is not None:
     st.image(image, caption="Uploaded Image.", use_column_width=True)
 
 
-submit=st.button("Do the Magic 
-      「✔ ᵛᵉʳᶦᶠᶦᵉᵈ」")
+submit=st.button("Do the Magic「✔ ᵛᵉʳᶦᶠᶦᵉᵈ」")
 
 ## If ask button is clicked
 
